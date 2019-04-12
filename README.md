@@ -8,4 +8,4 @@ Implemented Alternating Least Square (ALS) model using Spark.MLlib to achieve a 
 
 Tuned the hyper-parameters of ALS based on Spark RDD and Dataframe and learned the latent factors of users and items.     
 
-Based on the recommendation system, recommended personalized movies for each user and analyzed underlying factors.  
+Based on the recommendation system, recommended personalized movies for user and analyzed underlying factors.  
